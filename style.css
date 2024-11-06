@@ -1,0 +1,19 @@
+body{
+    text-align: center; 
+    font-size: 25px;
+
+    font-family: sans-serif;
+    line-height: 1.5;
+
+    width: 980px;
+    margin: 0 auto;
+
+    background-color: #cf81cf5e;
+    color: #333333;
+}
+
+h1 {
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 0;
+}
